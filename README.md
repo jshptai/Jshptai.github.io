@@ -1,2 +1,0 @@
-# Jshptai.github.io
-Portfolio
